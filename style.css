@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.spacebar{
+    margin-left: 8px;
+    font-weight: 300;
+    color: #c0c0c0;
+}
+
+.nav ul{
+    background-color: #e9e9e9;
+    font-family: 'Nunito', sans-serif;
+    padding: 10px;
+    padding-left: 200px;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+.nav ul li a{
+    font-weight: 800;
+    margin-left: 8px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+#globo{
+    color: #1063e0;
+}
+
+#globo:hover{
+    opacity: 60%;
+}
+
+#g1{
+    color: #a80000;
+}
+
+#g1:hover{
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+}
+
+#ge{
+    color: #06aa48;
+}
+
+#ge:hover{
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+}
+
+#gshow{
+    color: #ff7f00;
+}
+
+#gshow:hover{
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+}
+
+#videos{
+    font-family: 'PT Sans', sans-serif;
+    color: #1063e0;
+}
+
+#videos:hover{
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+}
+
+#tecn{
+    font-family: 'PT Sans', sans-serif;
+    color: #666666;
+}
+#tecn:hover{
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+}
+
+#entrar{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 300;
+    color: #666666;
+    font-size: 14px;
+    margin-left: 500px;
+}
+
+#entrar:hover{
+    color: #1063e0;
+    transition: all ease-in-out .300s;
+}
+
+#assine{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 300;
+    color: #666666;
+    font-size: 14px;
+    margin-left: 14px;
+}
+
+#assine:hover{
+    color: #1063e0;
+    transition: all ease-in-out .300s;
+}
+
+#logo{
+    position: absolute;
+    width: 265px;
+    margin-top: 21px;
+    margin-left: 67px;
+}
+
+#menu ul{
+    background-color: #1E4C9A;
+    padding-left: 900px;
+}
+
+#menu ul li{
+    padding: 35px;
+    display: inline-block;
+    color: white;
+    opacity: 40%;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'PT Sans', sans-serif;
+}
